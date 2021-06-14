@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'fa-brand';
+  src:  url('fonts/fa-brand.eot?hxikdc');
+  src:  url('fonts/fa-brand.eot?hxikdc#iefix') format('embedded-opentype'),
+    url('fonts/fa-brand.ttf?hxikdc') format('truetype'),
+    url('fonts/fa-brand.woff?hxikdc') format('woff'),
+    url('fonts/fa-brand.svg?hxikdc#fa-brand') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-"], [class*=" fa-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fa-brand' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-amazon:before {
+  content: "\e900";
+}
+.fa-facebook-f:before {
+  content: "\e901";
+}
+.fa-facebook-messenger:before {
+  content: "\e902";
+}
+.fa-facebook-square:before {
+  content: "\e903";
+}
+.fa-facebook:before {
+  content: "\e904";
+}
+.fa-instagram-square:before {
+  content: "\e905";
+}
+.fa-instagram:before {
+  content: "\e906";
+}
+.fa-line:before {
+  content: "\e907";
+}
+.fa-paypal:before {
+  content: "\e908";
+}
+.fa-pinterest-p:before {
+  content: "\e909";
+}
+.fa-pinterest-square:before {
+  content: "\e90a";
+}
+.fa-pinterest:before {
+  content: "\e90b";
+}
+.fa-twitter-square:before {
+  content: "\e90c";
+}
+.fa-twitter:before {
+  content: "\e90d";
+}
+.fa-yahoo:before {
+  content: "\e90e";
+}
+.fa-youtube-square:before {
+  content: "\e90f";
+}
+.fa-youtube:before {
+  content: "\e910";
+}

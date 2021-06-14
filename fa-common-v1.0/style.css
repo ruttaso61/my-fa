@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'fa-common';
+  src:  url('fonts/fa-common.eot?t725ns');
+  src:  url('fonts/fa-common.eot?t725ns#iefix') format('embedded-opentype'),
+    url('fonts/fa-common.ttf?t725ns') format('truetype'),
+    url('fonts/fa-common.woff?t725ns') format('woff'),
+    url('fonts/fa-common.svg?t725ns#fa-common') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-"], [class*=" fa-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fa-common' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-bars:before {
+  content: "\e900";
+}
+.fa-chevron-down:before {
+  content: "\e901";
+}
+.fa-chevron-left:before {
+  content: "\e902";
+}
+.fa-chevron-right:before {
+  content: "\e903";
+}
+.fa-chevron-up:before {
+  content: "\e904";
+}
+.fa-envelope-square:before {
+  content: "\e905";
+}
+.fa-envelope1:before {
+  content: "\e906";
+}
+.fa-exclamation-circle:before {
+  content: "\e907";
+}
+.fa-exclamation-triangle:before {
+  content: "\e908";
+}
+.fa-laptop:before {
+  content: "\e921";
+}
+.fa-mobile-alt:before {
+  content: "\e922";
+}
+.fa-phone-alt:before {
+  content: "\e909";
+}
+.fa-phone:before {
+  content: "\e90a";
+}
+.fa-th:before {
+  content: "\e90b";
+}
+.fa-arrow-alt-circle-down:before {
+  content: "\e90c";
+}
+.fa-arrow-alt-circle-left:before {
+  content: "\e90d";
+}
+.fa-arrow-alt-circle-right:before {
+  content: "\e90e";
+}
+.fa-arrow-alt-circle-up:before {
+  content: "\e90f";
+}
+.fa-caret-square-down:before {
+  content: "\e910";
+}
+.fa-caret-square-left:before {
+  content: "\e911";
+}
+.fa-caret-square-right:before {
+  content: "\e912";
+}
+.fa-caret-square-up:before {
+  content: "\e913";
+}
+.fa-check-circle:before {
+  content: "\e914";
+}
+.fa-check-square:before {
+  content: "\e915";
+}
+.fa-circle:before {
+  content: "\e916";
+}
+.fa-envelope-open:before {
+  content: "\e917";
+}
+.fa-envelope:before {
+  content: "\e918";
+}
+.fa-hand-point-down:before {
+  content: "\e919";
+}
+.fa-hand-point-left:before {
+  content: "\e91a";
+}
+.fa-hand-point-right:before {
+  content: "\e91b";
+}
+.fa-hand-point-up:before {
+  content: "\e91c";
+}
+.fa-heart:before {
+  content: "\e91d";
+}
+.fa-thumbs-down:before {
+  content: "\e91e";
+}
+.fa-thumbs-up:before {
+  content: "\e91f";
+}
+.fa-times-circle:before {
+  content: "\e920";
+}
